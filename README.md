@@ -61,7 +61,7 @@ Parcel-Delivery-System/
 ## 📸 Screenshot
 
 ### 🔹 Email Received
-![Email Screenshot](screenshots/mail.png)
+![Email Screenshot](demo/mail.png)
 
 ---
 
