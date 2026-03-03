@@ -63,7 +63,7 @@ Parcel-Delivery-System/
 
 ▶️ Watch the working demo:
 
-[Click Here to Watch Demo](demo\sent_message_notify.mp4")
+[Click Here to Watch Demo](demo/sent_message_notify.mp4)
 
 ---
 
