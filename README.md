@@ -20,7 +20,6 @@ It improves delivery tracking, communication, and management efficiency.
 
 - ☕ Java  
 - 📦 Maven (pom.xml)  
-- 🌐 HTML / CSS / JavaScript (Frontend)  
 - 📧 Java Mail API  
 - 💻 IntelliJ IDEA  
 
@@ -31,30 +30,8 @@ It improves delivery tracking, communication, and management efficiency.
 1️⃣ Driver enters parcel details  
 2️⃣ Clicks **Confirm Delivery**  
 3️⃣ System processes the request  
-4️⃣ Email is generated automatically  
+4️⃣ Email is generated   
 5️⃣ Company receives delivery confirmation  
-
----
-
-## 📂 Project Structure
-
-```
-Parcel-Delivery-System/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   └── resources/
-│
-├── screenshots/
-│   └── email.png
-│
-├── demo/
-│   └── sent_message_notify.mp4
-│
-├── pom.xml
-└── README.md
-```
 
 ---
 
@@ -90,7 +67,7 @@ git clone https://github.com/your-username/your-repository-name.git
 
 ## 🎯 Key Features
 
-✔ Automatic Email Notification  
+✔ Email Notification  
 ✔ Real-Time Delivery Confirmation  
 ✔ Simple and Clean UI  
 ✔ Maven Dependency Management  
@@ -100,7 +77,7 @@ git clone https://github.com/your-username/your-repository-name.git
 
 ## 👨‍💻 Developed By
 
-**Tharansanjai**  
+**K Puvajini**  
 Java Developer | Backend Developer  
 
 ---
