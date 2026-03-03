@@ -46,16 +46,22 @@ Parcel-Delivery-System/
 │   │   ├── java/
 │   │   └── resources/
 │
+├── screenshots/
+│   └── email.png
+│
+├── demo/
+│   └── sent_message_notify.mp4
+│
 ├── pom.xml
 └── README.md
 ```
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ### 🔹 Email Received
-![Email Screenshot](demo/email.png)
+![Email Screenshot](screenshots/mail.png)
 
 ---
 
@@ -89,15 +95,6 @@ git clone https://github.com/your-username/your-repository-name.git
 ✔ Simple and Clean UI  
 ✔ Maven Dependency Management  
 ✔ Easy to Maintain  
-
----
-
-## 🔮 Future Improvements
-
-- Add MySQL / MongoDB Database
-- Add Driver Login Authentication
-- Add Delivery History Dashboard
-- Add SMS Notification System
 
 ---
 
